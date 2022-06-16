@@ -17,3 +17,9 @@ The app will be useful for everyone as it provides users with wide range of
 services and provide a simple understanding of ones financial status .It elimi-
 nates the painful hours of looking at the balance sheets,receipts and calculating
 the expenses with bare hands. It acts as a manager as well as an assistant, helping in deciding better financial choices for the immediate future.
+
+# Our Team
+ Christy P Vinod <br>
+ Pranav Raj <br>
+ Savio Sunny <br>
+ Neeraj P Praveen <br>
