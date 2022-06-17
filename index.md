@@ -1,5 +1,8 @@
 # **TraceExpo**
 
+<img src="https://avatars.githubusercontent.com/u/105796065?s=200&v=4">
+
+
 TraceExpo is Expense Tracker application which tracks an individuals financial expenses
 and shows the current financial status. The application(app) provides the users
 the extra features like solvency and portfolio management.It stores and calculate expenses from utility bills,rent,taxes,salaries and display as per the user
