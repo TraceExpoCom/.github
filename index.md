@@ -1,11 +1,8 @@
 # **TraceExpo**
 
-TraceExpo is Expense Tracker is a application which tracks an individuals financial expenses
+TraceExpo is Expense Tracker application which tracks an individuals financial expenses
 and shows the current financial status. The application(app) provides the users
-
-the extra features like solvency and portfolio management.It stores and calcu-
-late expenses from utility bills,rent,taxes,salaries and display as per the user
-
+the extra features like solvency and portfolio management.It stores and calculate expenses from utility bills,rent,taxes,salaries and display as per the user
 demands .It creates weekly,monthly and annual reports or statements from the
 data sheets stored.These are beneficial for future purposes especially during the
 creation of future financial plans.The users can create a personal as well family
@@ -17,14 +14,11 @@ payment dates for loans ,emi’s along with the amount to be paid.The app can
 be used to create a financial plan for the future and displays the highest price
 values of the assets of the person if demanded.
 The app will be useful for everyone as it provides users with wide range of
-
 services and provide a simple understanding of ones financial status .It elimi-
 nates the painful hours of looking at the balance sheets,receipts and calculating
-
-the expenses with bare hands. It acts as a manager as well as an assistant
-,helping in deciding better financial choices for the immediate future.
+the expenses with bare hands. It acts as a manager as well as an assistant, helping in deciding better financial choices for the immediate future.
 #### **Team TraceExpo**
-Christy P Vinod
-Neeraj P Praveen
-Pranav Raj
+Christy P Vinod<br>
+Neeraj P Praveen<br>
+Pranav Raj<br>
 Savio
