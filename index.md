@@ -22,6 +22,6 @@ nates the painful hours of looking at the balance sheets,receipts and calculatin
 the expenses with bare hands. It acts as a manager as well as an assistant, helping in deciding better financial choices for the immediate future.
 #### **Team TraceExpo**
 💂‍Christy P Vinod<br>
-💂‍♂️♂️Neeraj P Praveen<br>
+💂‍♂️Neeraj P Praveen<br>
 🤴Pranav Raj<br>
 🕵️‍♂️Savio Sunny
